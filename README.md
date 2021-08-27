@@ -1,9 +1,9 @@
 # Books-Recommendation-Engine
-**Business Problem: To recommend books to readers based on different parameters such as authors, rating, publisher etc.**
+* Business Problem: To recommend books to readers based on different parameters such as authors, rating, publisher etc.**
 * Data: 12 columns and 11127 rows - 
-    bookID	
-    title	
-    authors	
+    1. bookID	
+    2. title	
+    3. authors	
     average_rating	
     isbn	
     isbn13	
